@@ -1,6 +1,6 @@
 # Hi, I'm Sayali 👋
 
-🎓 B.Tech Information Technology Student (SY) at Zeal College of Engineering and Research, Pune.
+🎓 B.Tech Information Technology Student (Second-Year) at Zeal College of Engineering and Research, Pune.
 
 ## Skills
 
