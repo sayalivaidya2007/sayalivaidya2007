@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sayali 👋
 
-<!--
-**sayalivaidya2007/sayalivaidya2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student (SY) at Zeal College of Engineering and Research, Pune.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C++
+- PHP
+- MySQL
+- HTML
+- CSS
+
+## Currently Learning
+
+- Java OOP
+- Data Structures
+- Git & GitHub
+
+## Goals
+
+- Build real-world projects
+- Improve problem-solving
+- Prepare for software internships
